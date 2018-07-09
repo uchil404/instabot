@@ -9,20 +9,20 @@ echo -e $kiddes "#####################"
 echo "  # UNTUK Instagram # " | lolcat
 echo "  # PENYUSUN JOMBLO # " | lolcat
 echo -e $kiddes "#####################"
-echo -e $kiddies"===================================================" 
+echo -e $kiddies"=======================================" 
 echo " [1] INSTABOT"  | lolcat
 echo " [2] INSTAHACK" | lolcat
-echo -e $kiddies"==================================================="
+echo -e $kiddies"======================================="
 read -p " [Insta No]> " insta;
 
 if [ $insta = 1 ] || [ $insta = 1 ]
 then
-echo "============================================================"
+echo "================================================"
 python2 instabot.py;
 fi
 
 if [ $insta = 2 ] || [ $insta = 2 ]
 then
-echo "============================================================"
+echo "================================================"
 python2 instahack.py;
 fi
