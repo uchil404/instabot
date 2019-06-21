@@ -1,5 +1,5 @@
 # InstaBot
-https://github.com/Senitopeng/instabot.git
+https://github.com/uchil404/instabot.git
 
 
 #ini Hanya Penggabungan,
