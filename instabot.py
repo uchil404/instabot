@@ -108,4 +108,4 @@ while True:
         unfollow_protocol(bot)
 
     else:
-        print("Wrong mode!")
+        print("Wrong mode!") 
